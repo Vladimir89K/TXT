@@ -1,0 +1,16 @@
+Title
+Severity
+Priority
+Steps to reproduse
+Expected result
+[A[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[CActual[C[C[C[C[C[C[C[C[C[C[C[C
+Expected result
+Environment
+Attachment
+...
+Athor
+[C[Author
+Status
+precondition
+id
+[A[3~[3~project
