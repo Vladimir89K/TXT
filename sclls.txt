@@ -4,6 +4,6 @@
 4. Jmeter
 5. checkLists
 6. Bag Reports
-7ql
+7. Sql
 8. Mobile testing
 9. Python

@@ -1,0 +1,15 @@
+Title
+Severity
+Priority
+Steps to reproduse
+Expected result
+
+Expected result
+Environment
+Attachment
+...
+Author
+Status
+precondition
+id
+project
