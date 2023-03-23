@@ -7,7 +7,6 @@ Expected result
 Expected result
 Environment
 Attachment
-...
 Author
 Status
 precondition
