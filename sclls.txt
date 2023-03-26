@@ -1,9 +1,10 @@
-1. git
-2. postman
-3. charles (sniffing)
+1. Git
+2. Postman
+3. Charles, Fiddler (sniffing)
 4. Jmeter
-5. checkLists
+5. CheckLists
 6. Bag Reports
 7. Sql
 8. Mobile testing
 9. Python
+10. Jira
