@@ -1,6 +1,6 @@
 ID
 Title
-Steps
+Steps to reproduce
 Exspected result
 Status
 Comments
